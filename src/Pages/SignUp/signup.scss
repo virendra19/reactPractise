@@ -1,0 +1,13 @@
+.action_btn_container{
+    display: flex;
+    gap: 10px;
+
+    button{
+        cursor: pointer;
+    }
+
+    button:first-child{
+        background-color: red;
+        
+    }
+}
